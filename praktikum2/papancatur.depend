@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1521612039 source:d:\teknik informatika semester 4\grafika komputer\latihan1\main.cpp
+1522307580 source:d:\teknik informatika semester 4\grafika komputer\papancatur\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
+	<stdlib.h>
 
 1301111162 d:\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -208,6 +209,16 @@
 1301111156 d:\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
+1341006776 d:\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 d:\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
 976641772 d:\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
@@ -218,9 +229,4 @@
 1301111164 d:\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1521783654 source:c:\users\user\documents\prak grafkom\praktikum 1\main.cpp
-	<windows.h>
-	<GLUT/glut.h>
-	<GL/glut.h>
 

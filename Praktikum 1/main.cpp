@@ -113,6 +113,6 @@ int main(int argc, char* argv[]){
     glutCreateWindow("Obyek Primitif");
     glutDisplayFunc(display);
     myinit();
-    glutMainLoop();
+
     return 0;
 }
